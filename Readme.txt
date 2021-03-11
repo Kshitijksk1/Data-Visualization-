@@ -1,6 +1,3 @@
-Data Mining Assignment - 1
-CSE5334
-
 Requirements:
 1)Jupyter Notebook
 2)Pandas, NumPy, Matplotlib, Seaborn
